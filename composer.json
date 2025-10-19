@@ -12,10 +12,10 @@
 		}
 	],
 	"require": {
-		"php": ">=8.0",
-		"compono-kit/money": "^1.0.0",
+		"php": ">=8.3",
+		"compono-kit/money": "^2.0.0",
 		"compono-kit/currencies": "^1.0.0",
-		"compono-kit/money-formatters": "^1.0.0"
+		"compono-kit/money-formatters": "^2.0.0"
 	}
 }
 
